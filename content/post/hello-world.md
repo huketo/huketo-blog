@@ -7,3 +7,4 @@ draft: false
 # test first post
 
 hello hugo!
+test in wsl2
