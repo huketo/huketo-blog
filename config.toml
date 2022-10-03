@@ -1,4 +1,4 @@
 baseURL = 'https://www.huketo.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ko-kr'
+title = 'Huketo's Blog'
 theme = "hugo-theme-stack"
