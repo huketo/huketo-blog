@@ -5,6 +5,9 @@ draft: false
 categories:
   - call
   - back
+tags:
+  - hugo
+  - mine
 ---
 
 # hello test 2 now
