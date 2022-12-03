@@ -4,10 +4,11 @@ date: 2022-12-01T23:35:23+09:00
 draft: false
 categories:
 <<<<<<< HEAD:content/post/test_2.md
-  - javascript
+  - call
+  - back
 tags:
-  - food
-  - book
+  - hugo
+  - mine
 =======
   - call
   - back
