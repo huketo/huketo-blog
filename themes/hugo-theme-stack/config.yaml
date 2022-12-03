@@ -125,6 +125,8 @@ params:
           limit: 10
     page:
       - type: toc
+    post:
+      - type: toc
 
   opengraph:
     twitter:
