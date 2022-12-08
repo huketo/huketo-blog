@@ -21,7 +21,7 @@ params:
   sidebar:
     compact: false
     emoji: 💻
-    subtitle: huketo의 개발 블로그입니다. 블록체인 개발자로 열심히 공부중...
+    subtitle: huketo의 개발 블로그입니다 😊
     avatar:
       enabled: true
       local: true
