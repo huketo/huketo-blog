@@ -1,7 +1,7 @@
 ---
 title: "Oracle"
 date: 2023-01-06T14:46:01+09:00
-draft: true
+draft: false
 categories:
   - blockchain
 tags:
